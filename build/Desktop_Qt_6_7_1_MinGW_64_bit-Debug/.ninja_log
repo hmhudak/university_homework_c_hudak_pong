@@ -1,0 +1,15 @@
+# ninja log v6
+25	244	7401613289841989	hudak_pong_autogen/timestamp	6ea0fcee31c5c979
+25	244	7401613289841989	C:/Users/hudak.m-admin/Documents/hudak_pong/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/hudak_pong_autogen/timestamp	6ea0fcee31c5c979
+25	244	7401613289841989	hudak_pong_autogen/mocs_compilation.cpp	6ea0fcee31c5c979
+25	244	7401613289841989	C:/Users/hudak.m-admin/Documents/hudak_pong/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/hudak_pong_autogen/mocs_compilation.cpp	6ea0fcee31c5c979
+3352	3639	7401613323111937	hudak_pong.exe	3229abc8f8d28168
+1022	5034	7401609507008113	CMakeFiles/hudak_pong.dir/main.cpp.obj	56b233ede44bd087
+1017	4981	7401609506953837	CMakeFiles/hudak_pong.dir/hudak_pong_autogen/mocs_compilation.cpp.obj	cc69ece310ede6e5
+246	3352	7401613292047910	CMakeFiles/hudak_pong.dir/mainwindow.cpp.obj	250c2ef2c218c500
+34	318	7401615374576195	hudak_pong_autogen/timestamp	6ea0fcee31c5c979
+34	318	7401615374576195	hudak_pong_autogen/mocs_compilation.cpp	6ea0fcee31c5c979
+34	318	7401615374576195	C:/Users/hudak.m-admin/Documents/hudak_pong/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/hudak_pong_autogen/timestamp	6ea0fcee31c5c979
+34	318	7401615374576195	C:/Users/hudak.m-admin/Documents/hudak_pong/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/hudak_pong_autogen/mocs_compilation.cpp	6ea0fcee31c5c979
+321	5224	7401615377450110	CMakeFiles/hudak_pong.dir/mainwindow.cpp.obj	250c2ef2c218c500
+5224	5622	7401615426481038	hudak_pong.exe	3229abc8f8d28168

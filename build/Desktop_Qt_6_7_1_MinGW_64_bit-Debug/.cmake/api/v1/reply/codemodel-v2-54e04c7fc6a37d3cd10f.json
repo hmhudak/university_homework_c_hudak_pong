@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-54cc1e59aefbcd4d1648.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "hudak_pong",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "hudak_pong::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hudak_pong-Debug-f65366380dce4ba9f5bf.json",
+					"name" : "hudak_pong",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hudak_pong_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hudak_pong_autogen-Debug-8ad05ddf89bbb6b5e427.json",
+					"name" : "hudak_pong_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hudak_pong_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hudak_pong_autogen_timestamp_deps-Debug-efe006d680390e9e018c.json",
+					"name" : "hudak_pong_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/hudak.m-admin/Documents/hudak_pong/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/hudak.m-admin/Documents/hudak_pong"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
